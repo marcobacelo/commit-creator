@@ -1,7 +1,7 @@
 # 🚀 Commit Pattern CLI
 
 <p align="center">
-  <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust Logo" width="140" />
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust Logo" width="140" />
 </p>
 
 <p align="center">
@@ -193,6 +193,7 @@ Depois versionar:
 git add .githooks
 git commit -m "chore: adicionar hook de commit"
 ```
+
 ---
 
 ## 🦀 Feito com Rust
