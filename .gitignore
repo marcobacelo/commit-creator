@@ -1,0 +1,38 @@
+# Rust build artifacts
+/target/
+
+# Cargo lock
+# Para CLI/binário, normalmente é recomendado versionar Cargo.lock.
+# Então NÃO ignore o Cargo.lock.
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# Generated distribution files
+/dist/
+*.tar.gz
+*.zip
+
+# Temporary files
+tmp/
+temp/
+
+# Git hooks generated locally
+.git/hooks/
+
+/target/

@@ -1,0 +1,17 @@
+[package]
+name = "commit-creator"
+version = "0.1.0"
+edition = "2021"
+description = "CLI interativo para criar commits padronizados com Conventional Commits e emojis"
+authors = ["Marco Antonio Bacelo Soares"]
+license = "MIT"
+
+[[bin]]
+name = "commit-pattern"
+path = "src/main.rs"
+
+[dependencies]
+anyhow = "1"
+clap = { version = "4", features = ["derive"] }
+colored = "2"
+dialoguer = "0.11"
