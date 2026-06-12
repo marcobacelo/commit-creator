@@ -1,5 +1,5 @@
-[◀️ Página anterior: Validação aplicada](validation.md)
-[⬅️ Voltar para o README principal](../README.md)
+[◀️ Página anterior: Validação aplicada](validation.md)  
+[⬅️ Voltar para o README principal](../README.md)  
 
 # 🧯 Troubleshooting
 
@@ -407,7 +407,7 @@ Depois de resolver problemas comuns, veja o roadmap do projeto:
 
 ---
 
-[◀️ Página anterior: Validação aplicada](validation.md)
-[⬅️ Voltar para o README principal](../README.md)
+[◀️ Página anterior: Validação aplicada](validation.md)  
+[⬅️ Voltar para o README principal](../README.md)  
 
 ---

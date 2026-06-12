@@ -1,5 +1,5 @@
-[◀️ Página anterior: Troubleshooting](troubleshooting.md)
-[⬅️ Voltar para o README principal](../README.md)
+[◀️ Página anterior: Troubleshooting](troubleshooting.md)  
+[⬅️ Voltar para o README principal](../README.md)  
 
 # 🧭 Roadmap
 
@@ -83,4 +83,4 @@ A visão do projeto é ser uma CLI simples, rápida e opinativa para padronizar 
 
 ---
 
-[⬅️ Voltar para o README principal](../README.md)
+[⬅️ Voltar para o README principal](../README.md)  

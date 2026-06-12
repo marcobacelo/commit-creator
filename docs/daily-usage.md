@@ -1,4 +1,5 @@
-[◀️ Página anterior: Como distribuir para colegas](distribution.md) • [⬅️ Voltar para o README principal](../README.md) • [➡️ Próxima: Todos os comandos disponíveis](commands.md)
+[◀️ Página anterior: Como distribuir para colegas](distribution.md)  
+[⬅️ Voltar para o README principal](../README.md)  
 
 # 🧙 Como usar no dia a dia
 

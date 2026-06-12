@@ -1,4 +1,4 @@
-[◀️ Página anterior: README](../README.md)
+[◀️ Página anterior: README](../README.md)  
 [➡️ Próxima: Instalando Rust](installing-rust.md)
 
 # 🧰 Pré-requisitos

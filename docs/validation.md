@@ -1,5 +1,5 @@
-[◀️ Página anterior: Todos os comandos disponíveis](commands.md) 
-[⬅️ Voltar para o README principal](../README.md) 
+[◀️ Página anterior: Todos os comandos disponíveis](commands.md)  
+[⬅️ Voltar para o README principal](../README.md)  
 
 # 🛡️ Validação aplicada
 
@@ -120,5 +120,5 @@ Dúvidas?
 
 ---
 
-[◀️ Página anterior: Todos os comandos disponíveis](commands.md)
-[⬅️ Voltar para o README principal](../README.md)
+[◀️ Página anterior: Todos os comandos disponíveis](commands.md)  
+[⬅️ Voltar para o README principal](../README.md)  

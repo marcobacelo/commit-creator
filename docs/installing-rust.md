@@ -1,4 +1,5 @@
-[◀️ Página anterior: Pré-requisitos](prerequisites.md) • [⬅️ Voltar para o README principal](../README.md) • [➡️ Próxima: Como distribuir para colegas](distribution.md)
+[◀️ Página anterior: Pré-requisitos](prerequisites.md)  
+[⬅️ Voltar para o README principal](../README.md)  
 
 # 🦀 Instalando Rust
 
@@ -93,5 +94,5 @@ Depois de instalar Rust, veja como distribuir a aplicação:
 
 ---
 
-[◀️ Página anterior: Pré-requisitos](prerequisites.md)
-[⬅️ Voltar para o README principal](../README.md)
+[◀️ Página anterior: Pré-requisitos](prerequisites.md)  
+[⬅️ Voltar para o README principal](../README.md)  

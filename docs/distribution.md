@@ -1,4 +1,5 @@
-[◀️ Página anterior: Instalando Rust](installing-rust.md) • [⬅️ Voltar para o README principal](../README.md) • [➡️ Próxima: Como usar no dia a dia](daily-usage.md)
+[◀️ Página anterior: Instalando Rust](installing-rust.md)  
+[⬅️ Voltar para o README principal](../README.md)  
 
 # 👥 Como distribuir para colegas
 
