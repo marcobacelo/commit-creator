@@ -1,3 +1,4 @@
+[◀️ Página anterior: Validação aplicada](validation.md)
 [⬅️ Voltar para o README principal](../README.md)
 
 # 🧯 Troubleshooting
@@ -395,3 +396,18 @@ Se algo não funcionar, valide:
 * [ ] O hook tem permissão de execução?
 * [ ] O `core.hooksPath` aponta para `.githooks`?
 * [ ] Há arquivos staged antes do commit?
+
+---
+
+## 🚀 Próximo passo
+
+Depois de resolver problemas comuns, veja o roadmap do projeto:
+
+[➡️ Próxima página: 🧭 Roadmap](roadmap.md)
+
+---
+
+[◀️ Página anterior: Validação aplicada](validation.md)
+[⬅️ Voltar para o README principal](../README.md)
+
+---

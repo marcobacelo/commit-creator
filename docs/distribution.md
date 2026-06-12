@@ -1,4 +1,4 @@
-[⬅️ Voltar para o README principal](../README.md)
+[◀️ Página anterior: Instalando Rust](installing-rust.md) • [⬅️ Voltar para o README principal](../README.md) • [➡️ Próxima: Como usar no dia a dia](daily-usage.md)
 
 # 👥 Como distribuir para colegas
 
@@ -165,4 +165,13 @@ Depois cada pessoa instala em `/usr/local/bin` ou `~/.local/bin`.
 
 ---
 
+## 🚀 Próximo passo
+
+Depois de distribuir ou instalar a aplicação, veja como usá-la no dia a dia:
+
+[➡️ Próxima página: 🧙 Como usar no dia a dia](daily-usage.md)
+
+---
+
+[◀️ Página anterior: Instalando Rust](installing-rust.md)
 [⬅️ Voltar para o README principal](../README.md)

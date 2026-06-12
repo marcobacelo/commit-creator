@@ -1,4 +1,5 @@
-[⬅️ Voltar para o README principal](../README.md)
+[◀️ Página anterior: README](../README.md)
+[➡️ Próxima: Instalando Rust](installing-rust.md)
 
 # 🧰 Pré-requisitos
 
@@ -89,4 +90,8 @@ Antes de continuar, confirme:
 
 Se ainda não tiver Rust instalado, veja:
 
-[🦀 Instalando Rust](installing-rust.md)
+[➡️ Próxima página: 🦀 Instalando Rust](installing-rust.md)
+
+---
+
+[◀️ Página anterior: README](../README.md) 

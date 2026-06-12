@@ -1,4 +1,4 @@
-[⬅️ Voltar para o README principal](../README.md)
+[◀️ Página anterior: Como distribuir para colegas](distribution.md) • [⬅️ Voltar para o README principal](../README.md) • [➡️ Próxima: Todos os comandos disponíveis](commands.md)
 
 # 🧙 Como usar no dia a dia
 
@@ -120,35 +120,19 @@ commit-pattern commit
 
 ## 🧯 Problemas comuns
 
-### Não há alterações staged
+Se encontrar algum problema, consulte:
 
-Solução:
-
-```bash
-git add .
-commit-pattern commit
-```
-
-Ou:
-
-```bash
-commit-pattern commit --all
-```
-
-### Commit foi bloqueado pelo hook
-
-Use o assistente:
-
-```bash
-commit-pattern commit
-```
-
-Ou valide manualmente a mensagem:
-
-```bash
-commit-pattern validate --message "sua mensagem"
-```
+[🧯 Troubleshooting](troubleshooting.md)
 
 ---
 
+## 🚀 Próximo passo
+
+Veja todos os comandos disponíveis:
+
+[➡️ Próxima: Todos os comandos disponíveis](commands.md)
+
+---
+
+[◀️ Página anterior: Como distribuir para colegas](distribution.md)
 [⬅️ Voltar para o README principal](../README.md)

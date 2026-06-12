@@ -1,3 +1,4 @@
+[◀️ Página anterior: Troubleshooting](troubleshooting.md)
 [⬅️ Voltar para o README principal](../README.md)
 
 # 🧭 Roadmap

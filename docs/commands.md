@@ -1,4 +1,4 @@
-[⬅️ Voltar para o README principal](../README.md)
+[◀️ Página anterior: Como usar no dia a dia](daily-usage.md) • [⬅️ Voltar para o README principal](../README.md) • [➡️ Próxima: Validação aplicada](validation.md)
 
 # 🧾 Todos os comandos disponíveis
 
@@ -217,6 +217,13 @@ Mostra manual completo no terminal.
 commit-pattern manual
 ```
 
+## 🚀 Próximo passo
+
+Valide o uso da CLI:
+
+[➡️ Próxima: Validação aplicada](validation.md)
+
 ---
 
+[◀️ Página anterior: Como usar no dia a dia](daily-usage.md)
 [⬅️ Voltar para o README principal](../README.md)

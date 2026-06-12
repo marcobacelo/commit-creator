@@ -132,7 +132,7 @@ commit-creator/
 
 ---
 
-## 🖥️ Instalação na máquina
+## 🖥️ Instalação Local
 
 Clone o projeto:
 

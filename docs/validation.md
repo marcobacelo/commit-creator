@@ -1,6 +1,7 @@
-# 🛡️ Validação aplicada
+[◀️ Página anterior: Todos os comandos disponíveis](commands.md) 
+[⬅️ Voltar para o README principal](../README.md) 
 
-[⬅️ Voltar para o README principal](../README.md)
+# 🛡️ Validação aplicada
 
 ---
 
@@ -111,4 +112,13 @@ Esse hook bloqueia commits fora do padrão.
 
 ---
 
+## 🚀 Próximo passo
+
+Dúvidas?
+
+[➡️ Próxima: Troubleshooting](troubleshooting.md)
+
+---
+
+[◀️ Página anterior: Todos os comandos disponíveis](commands.md)
 [⬅️ Voltar para o README principal](../README.md)

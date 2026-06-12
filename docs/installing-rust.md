@@ -1,6 +1,6 @@
-# 🦀 Instalando Rust
+[◀️ Página anterior: Pré-requisitos](prerequisites.md) • [⬅️ Voltar para o README principal](../README.md) • [➡️ Próxima: Como distribuir para colegas](distribution.md)
 
-[⬅️ Voltar para o README principal](../README.md)
+# 🦀 Instalando Rust
 
 ---
 
@@ -85,4 +85,13 @@ Se ambos os comandos funcionarem, você já pode compilar o projeto.
 
 ---
 
+## 🚀 Próximo passo
+
+Depois de instalar Rust, veja como distribuir a aplicação:
+
+[➡️ Próxima página: 👥 Como distribuir para colegas](distribution.md)
+
+---
+
+[◀️ Página anterior: Pré-requisitos](prerequisites.md)
 [⬅️ Voltar para o README principal](../README.md)
