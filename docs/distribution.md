@@ -174,5 +174,5 @@ Depois de distribuir ou instalar a aplicação, veja como usá-la no dia a dia:
 
 ---
 
-[◀️ Página anterior: Instalando Rust](installing-rust.md)
-[⬅️ Voltar para o README principal](../README.md)
+[◀️ Página anterior: Instalando Rust](installing-rust.md)  
+[⬅️ Voltar para o README principal](../README.md)  

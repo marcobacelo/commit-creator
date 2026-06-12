@@ -135,5 +135,5 @@ Veja todos os comandos disponíveis:
 
 ---
 
-[◀️ Página anterior: Como distribuir para colegas](distribution.md)
-[⬅️ Voltar para o README principal](../README.md)
+[◀️ Página anterior: Como distribuir para colegas](distribution.md)  
+[⬅️ Voltar para o README principal](../README.md)  

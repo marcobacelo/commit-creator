@@ -226,5 +226,5 @@ Valide o uso da CLI:
 
 ---
 
-[◀️ Página anterior: Como usar no dia a dia](daily-usage.md)
-[⬅️ Voltar para o README principal](../README.md)
+[◀️ Página anterior: Como usar no dia a dia](daily-usage.md)  
+[⬅️ Voltar para o README principal](../README.md)  
